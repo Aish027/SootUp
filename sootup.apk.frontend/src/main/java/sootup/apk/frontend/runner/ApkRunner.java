@@ -5,7 +5,7 @@ import sootup.apk.frontend.main.AndroidEntryPointCreator;
 import java.util.List;
 
 /**
- * APK Runner - Strict analysis with no demo data
+ * APK Runner 
  */
 public class ApkRunner {
 
